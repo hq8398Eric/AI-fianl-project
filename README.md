@@ -1,5 +1,7 @@
 # AI-fianl-project
 
+[Know more about this](https://docs.google.com/document/d/17-VmrLC-dWIuW3XNBbpZ2itqaL0znjaNpZ8SJxOCYVw/edit?usp=sharing)
+
 ### Overview
 Datas including augumented ones are stored in data, the approches for data augmenting is in data_augmentation.
 
